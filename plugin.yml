@@ -1,0 +1,25 @@
+name: DogeCraftHub
+author: CrescendoFX
+main: me.CrescendoFX.main.main
+version: 1.0
+commands:
+     doge:
+        description: Gives Doge food to everyone!
+        usage: /<command>
+     bmsg:
+        description: Toggles Dogez.
+        usage: /<command>
+     gm:
+        description: Toggles GameMode.
+        usage: /<command>
+     fakeop:
+        description: Get no scoped.
+        aliases: [fop, dogeop]
+        usage: /<command>
+     motd:
+        description: View MOTD
+        usage: /<command>
+     setmotd:
+        description: Set MOTD
+        usage: /<command>
+      
